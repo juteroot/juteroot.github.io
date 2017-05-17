@@ -38,7 +38,7 @@ improve_content: http://github.com/Phlow/feeling-responsive/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'http://juteroot.com/feeling-responsive/images/'
+urlimg: 'http://juteroot.com/images/'
 
 
 # Logo size is 600x80 pixels
