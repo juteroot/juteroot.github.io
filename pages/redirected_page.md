@@ -3,6 +3,6 @@ title: "A website that doesn't exit"
 layout: redirect
 sitemap: false
 permalink: /redirect-page/
-redirect_to:  "http://localhost:4000/feeling-responsive/info/"
+redirect_to:  "http://juteroot.com/feeling-responsive/info/"
 ---
 This is just a page to demonstrate the `redirect`-layout, programmend by [Kanishk](http://codingtips.kanishkkunal.in/about/).

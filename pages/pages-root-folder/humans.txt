@@ -18,7 +18,7 @@ Name: Moritz »mo.« Sauer
 Role: Creator of the Theme
 Site: http://mo.phlow.de/
 Twitter: @phlow
-Theme: http://localhost:4000/feeling-responsive/
+Theme: http://juteroot.com/feeling-responsive/
 
 
 /* SITE */

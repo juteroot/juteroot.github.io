@@ -5,14 +5,14 @@
 
 If you are a webdesigner interested in Jekyll, the static website generator, this little newsletter is for you. I share tutorials, clever code snippets and information about my own Jekyll Themes called [*Feeling Responsive*][7] and [*Simplicity*][8]. Please don't expect weekly emails :)
 
-[![Subscribe to Jekyll Newsletter](http://localhost:4000/static/tinyletter_subscribe_button.png)](http://tinyletter.com/feeling-responsive)
+[![Subscribe to Jekyll Newsletter](http://juteroot.com/static/tinyletter_subscribe_button.png)](http://tinyletter.com/feeling-responsive)
 
 
 [![Start Video](http://github.com/Phlow/feeling-responsive/blob/gh-pages/images/video-feeling-responsive-1280x720.jpg)](http://www.youtube.com/embed/3b5zCFSmVvU)
 
 ## A Responsive Jekyll Theme: *Feeling Responsive*
 
-Do you want to get to know *Feeling Responsive*? Than check it out first and have a look on its home at  <http://localhost:4000/feeling-responsive/>.
+Do you want to get to know *Feeling Responsive*? Than check it out first and have a look on its home at  <http://juteroot.com/feeling-responsive/>.
 
 To get to know *Feeling Responsive* check out all the features explained in the [documentation][1].
 
@@ -55,13 +55,13 @@ Click the image to [watch the YouTube-Video-Tutorial][4].
 
 
 
- [1]: http://localhost:4000/feeling-responsive/documentation/
+ [1]: http://juteroot.com/feeling-responsive/documentation/
  [2]: http://github.com/Phlow/feeling-responsive/blob/gh-pages/LICENSE
- [3]: http://localhost:4000/feeling-responsive/info/
+ [3]: http://juteroot.com/feeling-responsive/info/
  [4]: http://www.youtube.com/watch?v=rLS-BEvlEyY
  [5]: http://github.com/TWiStErRob
- [6]: http://localhost:4000/feeling-responsive/changelog/
- [7]: http://localhost:4000/feeling-responsive/
- [8]: http://localhost:4000/simplicity/
+ [6]: http://juteroot.com/feeling-responsive/changelog/
+ [7]: http://juteroot.com/feeling-responsive/
+ [8]: http://juteroot.com/simplicity/
  [9]: #
  [10]: #
