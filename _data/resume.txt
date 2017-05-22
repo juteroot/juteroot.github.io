@@ -1,0 +1,116 @@
+http://webjeda.com/online-cv/
+http://resume-template.joelglovier.com/
+
+Harshad Wankhede
+DevOps Engineer & Delivery Lead
+
+DevOps Engineer having comprehensive technical skill and key focus on delivery with high availability, performance, monitoring, logging, alerting and infrastructure as code. Experienced in leading and developing highly stable, fully automated reproducible environments.
+Past experience includes working on multiple roles including development, quality assurance, agile consultant and bringing agility to the team through automation and best practices.
+
+Open Source Projects
+
+CacheWarp ( http://www.cachewarp.com )
+Testing caching of web applications by content delivery networks like Akamai is traditionally time consuming, technically challenging and if not done right may lead to major issues in Production. Harshad developed CachWarp due to need for such a solution on one of the Projects within ThoughtWorks. Manual testing took hours, was performed regularly and was error prone. CacheWarp brought down the time taken to a matter of minutes and the manual process was automated by integrating with the build pipelines. This resulted in significant cost savings.
+BlockAid ( http://www.codeweft.com/blockaid/)
+BlockAid is a Chrome Extension under active development set to speed up page load (At least in China). If you ever access Internet behind Internet you will realize some of the websites take longer to load. In some cases the page load takes more than a minute since the request timeout for less useful content within the website takes too long. These are mostly links to javascript, css and font’s by providers blocked in China (Google, Facebook etc.). BlockAid is a set of browser extension's to help you solve this problem.
+MapLocator (https://github.com/maplocator)
+MapLocator is a generic map-based platform for managing user-generated content. It integrates a webGIS platform, built with OpenLayers and MapServer, with a Content Management System, Drupal. The framework is has been used on multiple client projects. Harshad contributed to the development and open source efforts while he was working with GSLab.
+
+Consultant, ThoughtWorks Pvt. Ltd., Xian, China (2014 – Present)
+Telstra Corporation Limited (2014-2015)(Xian, China)
+The company builds and operates telecommunications networks and markets voice, mobile, internet access, pay television and other entertainment products and services. In March 2014, the company announced a new digital development program called "Digital First" with aim to generate $1 billion worth of cost cuts. The initial purpose is to improve the use of digital channels for customer service and eventually conduct 65 to 70 percent of its transactions online, which meets the national Australian average. The team follows a distributed agile development model, with teams across China and Australia. The project involves developing the identity solution in order to digitize B2C and B2B experience.
+Harshad was working as a DevOps Lead and is also responsible for Planning and Delivery of the project. He actively contributed to and was responsible for:
+Working with IM and Dev Lead for Estimation, Planning and Development
+Planning and Defining Test Strategy
+Improve the overall development process
+Mentoring and Knowledge Sharing
+Design and Development of the Test Automation Framework
+Setting up DevOps infrastructure
+Coordination with multiple teams on issues identified
+Leading the QA effort
+Support deployment activities
+He actively contributed to Planning, Development and Testing of the product.
+Major Japanese Multinational Conglomerate (2013 – 2014)
+The project involved replacing the marketing websites globally with a single platform. The platform supporting the redesigned websites must therefore be modern and robust to support a range of rich content (e.g., high resolution photos, video, etc.) and must be flexible to easily enable frequent changes in line with business needs.
+Harshad actively contributed to:
+Design and Development of the Test Automation Framework
+Defining Test Strategy
+Improve the overall development process
+Mentoring young team members on Automation and Testing
+Setting up deployment pipelines
+Independently working on DevOps tasks
+Coordination with multiple teams on issues identified
+Daily communication with client teams located in different time zones
+Perform training sessions on Product Infrastructure
+Support production deployment activities
+He actively contributed to Development and Testing of the product.
+
+
+Consultant, ThoughtWorks Pvt. Ltd., Pune, India (2011 – 2014)
+
+Biggest American Auto Reseller (2012 – 2013)
+The client is one of the largest B2B used car auction company, spread across many countries, including US, Canada, UK, to name a few. The project is run in a widely distributed agile mode with client developers, architects and testers working in collaboration with ThoughtWorks teams at various locations across the globe.
+Harshad joined as a Quality Analyst the project one year since inception and actively contributed to
+Communicating risks, sharing context with client and teams located across US, Brazil and India daily
+Developing and maintaining automation framework based on Cucumber, Capybara, Webdriver and Ruby
+Behavior driven test automation of stories developed during the Iteration
+Develop and maintain the automation build pipelines
+Manual testing of stories developed and raising any defects identified
+Support production deployment activities
+He was able to pickup the domain quickly and his efforts resulted in strengthening customer confidence and increased product quality.
+Leading American Airline (2011 – 2012):
+The project involved designing and developing application for mobile. Harshad joined the project during inception and was able to identify solutions and develop prototype for test automation on Blackberry and Windows Mobile, which resulted in increased customer confidence.
+QA Community Project (1 month)
+Harshad contributed to ThoughtWorks internal QA community project during which he developed the DevOps infrastructure and mentored team members.
+
+Previous Experience
+
+SQA Engineer, Symantec Software India Pvt. Ltd., Pune, India (2010 – 2011)
+ApplicationHA (http://www.symantec.com/business/application-ha)
+ApplicationHA is a cross platform high availability solution developed to enable application state awareness in virtualized environment and perform automated recovery tasks in case of failure. An agile development model using Perl, C, C#, Flex within a team of 15 was followed in order to reduce the time to market.
+Harshad contributed as a QA since inception, continued until two major and four minor versions were successfully released and the customer base increased to 95. He played a key role in identifying issues in all life cycle activities of Symantec ApplicationHA development. During this course he developed a unique Flex/Flash automation library using Perl and Flex; enhanced the in house Perl based test automation framework, identified solutions, automated modules, integrated and maintained daily automation. He also identified and developed a solution using Perl for scalability testing of ApplicationHA and investigated and developed a prototype using Perl to report test case results using SOAP API’s.
+Role:
+Identify the test basis and prepare test cases using requirements and design specification
+Prepare the test configurations and identify issues in requirements, design, implementation
+Prepare automation scripts and conduct non-functional testing (performance, load, scalability)
+Identify functional areas and automating them using Perl programming
+Identifying support required for automating components and implementing them using Perl
+Integrate the automated test cases and perform daily automation
+
+Member of Technical Staff, Great Software Laboratory Pvt. Ltd., Pune, India (2007 – 2010)
+Product: kPoint (http://www.kpoint.com) (2007 – 2009)
+kPoint is a scalable conferencing solution that supports application sharing, audio/video conferencing, chat, rich interactive whiteboard, document sharing, recording and playback. To develop a team of 12 individuals followed an incremental development using technologies such as Linux, Apache, MySQL, PHP, Flex, C, and Java. Test automation was accomplished by scripting in Ruby.
+Harshad identified and implemented the automation of Flex based web client, successfully automated the web based content management system, investigated and developed a solution for automating the windows desktop applications using Ruby and C# and was involved in identifying issues in all life cycle activities around kPoint.
+Product: India Biodiversity Portal (http://indiabiodiversity.org) (2009 – 2010)
+India Biodiversity Portal is a generic map-based web application platform that provides rich geographical visualization using map servers like maps.google.com with the ability to overlay custom geographical content and aggregating user content. Build over the LAMP stack this project helped him pick up skills required to develop, debug and deploy cross platform web applications. It also helped him understand the issues involved in client server communication and scenarios to consider while developing such application. A rapid application development model was adopted in order to customize the platform to fit customer needs.
+Role:
+Develop the features proposed by programming in PHP, JavaScript, MXML, Action Script and SQL
+Customize the platform to cater the needs of customers including designing and implementing requirements
+Develop end user, design and deployment documentation
+Assist customers in identifying the requirements and gain feedback on subsequent development
+Product: GSTAF (http://www.gslab.com/technology/assets)
+GSTAF is the outcome of a self-driven independent effort to solve the regression testing efforts. Harshad architected and developed this framework to support distributed and parallel execution, failure handling, reporting, cross platform support and integration with test case management system. He also created and delivered demos on test automation framework and assisted other teams with their automation efforts.
+Role:
+Enhancing and maintaining the functionality of the test automation framework
+Identifying and adding features required for automated testing of kPoint
+Creating and maintaining the documentation for various features added in the framework
+
+Skills
+Scripting in Perl, Ruby, PHP and CLI on Windows and Linux platform
+Testing using tools that facilitate test case management, execution and automation
+Automation of web and desktop UI, backend and distributed systems using WHITE, Watir etc.
+Architecting, developing and maintaining test automation frameworks to support automation requirements
+Ability to develop and maintain deployment infrastructure
+Ability to mentor and lead a QA team
+Skilled in server provisioning and configuration management
+Proficient in DevOps (Chef, Vagrant, Ganglia, LXC, CI, Docker etc.)
+Programming in C# for Windows UI automation, C++, C and Pascal
+Development using tools that facilitate rapid development (Netbeans, Eclipse, Microsoft Visual Studio, Adobe Flex Builder) and debugging (Firebug, php-debug, padwalker, windbg etc)
+Deployment and configuration of applications such as Symantec ApplicationHA, Microsoft SQL/IIS/ Exchange server, Oracle database, Apache, MySQL, Postgres
+Web development using technologies such as Openlayers, Mapfish, Google Maps, XHTML, XML, JavaScript, SOAP, JSON, Drupal and their applications
+Platform knowledge of both Windows and Linux (deployment, configuration, administration, utilities, commands etc)
+Deployment, configuration and management of virtualization application’s developed by VMware (ESX, VSphere), Oracle (VirtualBox) and Microsoft (Virtual PC)
+Education
+ISTQB Certified Tester Foundation Level in August 2011
+Master’s Degree in Computer Applications (MCA) from Veermata Jijabai Technological Institute (VJTI, affiliated to Mumbai University) 2005-2008
+Bachelor’s Degree in Computer Science (BCS) from Symbiosis College of Computer Science (Affiliated to Pune University) 2001-2004
