@@ -30,3 +30,4 @@ If you are creating a new Jekyll site using Skinny Bones following these steps:
 2. Run `bundle install` to install all dependencies 
 3. Update `_config.yml` and `index.md` as described above.
 
+openssl enc -in /home/hash/sync/juteroot/juteroot.github.io/_data/resume.txt -out /home/hash/sync/juteroot/juteroot.github.io/_data/resume.txt.enc^Ce -aes256 -k
