@@ -17,7 +17,21 @@ MapLocator (https://github.com/maplocator)
 MapLocator is a generic map-based platform for managing user-generated content. It integrates a webGIS platform, built with OpenLayers and MapServer, with a Content Management System, Drupal. The framework is has been used on multiple client projects. Harshad contributed to the development and open source efforts while he was working with GSLab.
 
 Consultant, ThoughtWorks Pvt. Ltd., Xian, China (2014 – Present)
-Telstra Corporation Limited (2014-2015)(Xian, China)
+REA Group Ltd: 2015-2017
+REA Group Ltd and its subsidiary companies, known as the REA Group, make up a global online real estate company headquartered in Melbourne, Australia. The company owns and operates realestate websites all over the world.
+Responsibilities and Contributions:
+www.rea.global
+Developed Highly Available and fault Tolerant Infrastructure(Dev, Staging and Production) for Serving International(/International) Listings to 20 websites in different countries
+
+www.myfun.com
+Developed Infrastructure
+
+www.squarefoot.com
+
+Regional Web
+
+
+Telstra Corporation Ltd: (2014-2015)(Xian, China)
 The company builds and operates telecommunications networks and markets voice, mobile, internet access, pay television and other entertainment products and services. In March 2014, the company announced a new digital development program called "Digital First" with aim to generate $1 billion worth of cost cuts. The initial purpose is to improve the use of digital channels for customer service and eventually conduct 65 to 70 percent of its transactions online, which meets the national Australian average. The team follows a distributed agile development model, with teams across China and Australia. The project involves developing the identity solution in order to digitize B2C and B2B experience.
 Harshad was working as a DevOps Lead and is also responsible for Planning and Delivery of the project. He actively contributed to and was responsible for:
 Working with IM and Dev Lead for Estimation, Planning and Development
